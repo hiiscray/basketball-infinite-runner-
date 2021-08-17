@@ -1,2 +1,1 @@
-# basketball-infinite-runner-
-It cool?
+#mygame
